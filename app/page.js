@@ -19,7 +19,7 @@ export default function Home() {
       </header>
 
       <div className={styles.bookingForm}>
-        <h2>Book International and Domestic Flights</h2>
+        <h2>Book international</h2>
         <div className={styles.inputGroup}>
           <label htmlFor="from">From</label>
           <input type="text" id="from" placeholder="Delhi" />
